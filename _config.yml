@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+theme: mistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
